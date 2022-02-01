@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the NOAA Cloud Pathfinders Program
 
 You can use the [editor on GitHub](https://github.com/ESIPFed/ncpp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
