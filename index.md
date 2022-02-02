@@ -1,12 +1,12 @@
 ## Selected Projects
 - Exploring Cloud backends for the new OGC Environmental Retrieval API (NWS)
-  -Steve Olsen, Shane Mill
--Climate Observatory - Analyzing and Visualizing NOAA Satellite Climate Data Records on the Cloud (NESDIS NCEI)
-  -Douglas Rao, Jessica Matthews
+   - Steve Olsen, Shane Mill
+- Climate Observatory - Analyzing and Visualizing NOAA Satellite Climate Data Records on the Cloud (NESDIS NCEI)
+   - Douglas Rao, Jessica Matthews
 - Graphical Hazardous Weather Outlook Cloud Dissemination Test (NWS)
-  -Derek DeRoche, Brian Miretzky, Gregory Schoor 
+   - Derek DeRoche, Brian Miretzky, Gregory Schoor 
 - Oceanography at-sea Information System (OASIS) (Fisheries)
-  - Maureen Taylor, Chris Melrose, Joshua Moser
+   - Maureen Taylor, Chris Melrose, Joshua Moser
 
 
 ## Timeline
