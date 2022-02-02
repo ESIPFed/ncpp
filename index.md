@@ -1,4 +1,7 @@
-### Timeline
+## Timeline
+<details>
+  <summary>Click to expand!</summary>
+  
 - August: NCPP solicitation released and distributed through NOAA EDMC
 - September: Submission deadline and project selection
 - October: Kickoff meeting ESIP/BDP and selected projects
@@ -11,6 +14,8 @@
 - May:
 - June:
 - Present project status/outcome at ESIP July Meeting.
+ </details>
+
 
 
 **Bold** and _Italic_ and `Code` text
