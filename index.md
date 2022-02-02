@@ -2,26 +2,24 @@
 <details>
   <summary>Click to expand!</summary>
   
-# 2021/2022 NCPP
+#### 2021/2022 NCPP
 * August: NCPP solicitation released and distributed through NOAA EDMC
 * September: Submission deadline and project selection
 * October: Kickoff meeting ESIP/BDP and selected projects
 * November: Architecture diagram sharing/discussion. Set up each team with credentials and least-permissions on AWS
 * December: Initial group meeting between NCPP projects and cloud-provider team
 * January: NCPP project leads attend the ESIP January Meeting & share project status during all-project checkin. 
-- February:
-- March:
-- April:
-- May:
-- June:
-- Present project status/outcome at ESIP July Meeting.
+* February:
+* March:
+* April:
+* May:
+* June:
+* Present project status/outcome at ESIP July Meeting.
  </details>
 
+### Selected Projects
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
