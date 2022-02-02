@@ -1,8 +1,6 @@
 ## Welcome to the NOAA Cloud Pathfinders Program
 
-You can use the [editor on GitHub](https://github.com/ESIPFed/ncpp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The NOAA Cloud Pathfinders Program (NCPP) initiates a proactive, project-based approach to learning so that scientists are poised to better harness the power of the cloud. Projects were solicited from NOAA scientists and data professionals to build, transition, or test research or data workflows on the AWS or Azure cloud over a six-month timeframe.
 
 ### Markdown
 
