@@ -2,9 +2,9 @@
 <details>
   <summary>Click to expand!</summary>
   
-#### 2021/2022 NCPP
-* August: NCPP solicitation released and distributed through NOAA EDMC
-* September: Submission deadline and project selection
+  <h2>2021/2022 NCPP</h2>
+  <li>August: NCPP solicitation released and distributed through NOAA EDMC</li>
+  <li>September: Submission deadline and project selection</li>
 * October: Kickoff meeting ESIP/BDP and selected projects
 * November: Architecture diagram sharing/discussion. Set up each team with credentials and least-permissions on AWS
 * December: Initial group meeting between NCPP projects and cloud-provider team
