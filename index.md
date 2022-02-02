@@ -2,22 +2,23 @@
 <details>
   <summary>Click to expand!</summary>
   
-  <h2>2021/2022 NCPP</h2>
   <li>August: NCPP solicitation released and distributed through NOAA EDMC</li>
   <li>September: Submission deadline and project selection</li>
-* October: Kickoff meeting ESIP/BDP and selected projects
-* November: Architecture diagram sharing/discussion. Set up each team with credentials and least-permissions on AWS
-* December: Initial group meeting between NCPP projects and cloud-provider team
-* January: NCPP project leads attend the ESIP January Meeting & share project status during all-project checkin. 
-* February:
-* March:
-* April:
-* May:
-* June:
-* Present project status/outcome at ESIP July Meeting.
+  <li>October: Kickoff meeting ESIP/BDP and selected projects</li>
+  <li>November: Architecture diagram sharing/discussion. Set up each team with credentials and least-permissions on AWS</li>
+  <li>December: Initial group meeting between NCPP projects and cloud-provider team</li>
+  <li>January: NCPP project leads attend the ESIP January Meeting & share project status during all-project checkin. </li>
+  <li>February: </li>
+  <li>March:  </li>
+  <li>March:  </li>
+  <li>April: </li>
+  <li>May: </li>
+  <li>June: </li>
+  <li>Present project status/outcome at ESIP July Meeting. </li>
  </details>
 
-### Selected Projects -u
+
+## Selected Projects
 
 
 ```
