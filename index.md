@@ -1,21 +1,17 @@
-The NOAA Cloud Pathfinders Program (NCPP) initiates a proactive, project-based approach to learning so that scientists are poised to better harness the power of the cloud. Projects were solicited from NOAA scientists and data professionals to build, transition, or test research or data workflows on the AWS or Azure cloud over a six-month timeframe.
+### Timeline
+- August: NCPP solicitation released and distributed through NOAA EDMC
+- September: Submission deadline and project selection
+- October: Kickoff meeting ESIP/BDP and selected projects
+- November: Architecture diagram sharing/discussion. Set up each team with credentials and least-permissions on AWS
+- December: Initial group meeting between NCPP projects and cloud-provider team
+- January: NCPP project leads attend the ESIP January Meeting & share project status during all-project checkin. 
+- February:
+- March:
+- April:
+- May:
+- June:
+- Present project status/outcome at ESIP July Meeting.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
