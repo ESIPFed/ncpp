@@ -1,7 +1,3 @@
-title: NOAA Cloud Pathfinders Program
-logo: 
-## Welcome to the NOAA Cloud Pathfinders Program
-
 The NOAA Cloud Pathfinders Program (NCPP) initiates a proactive, project-based approach to learning so that scientists are poised to better harness the power of the cloud. Projects were solicited from NOAA scientists and data professionals to build, transition, or test research or data workflows on the AWS or Azure cloud over a six-month timeframe.
 
 ### Markdown
