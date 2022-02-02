@@ -1,13 +1,13 @@
 ## Timeline
 <details>
   <summary>Click to expand!</summary>
-  
-- August: NCPP solicitation released and distributed through NOAA EDMC
-- September: Submission deadline and project selection
-- October: Kickoff meeting ESIP/BDP and selected projects
-- November: Architecture diagram sharing/discussion. Set up each team with credentials and least-permissions on AWS
-- December: Initial group meeting between NCPP projects and cloud-provider team
-- January: NCPP project leads attend the ESIP January Meeting & share project status during all-project checkin. 
+# 2021/2022 NCPP 
+* August: NCPP solicitation released and distributed through NOAA EDMC
+* September: Submission deadline and project selection
+* October: Kickoff meeting ESIP/BDP and selected projects
+* November: Architecture diagram sharing/discussion. Set up each team with credentials and least-permissions on AWS
+* December: Initial group meeting between NCPP projects and cloud-provider team
+* January: NCPP project leads attend the ESIP January Meeting & share project status during all-project checkin. 
 - February:
 - March:
 - April:
