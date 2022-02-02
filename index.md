@@ -1,3 +1,14 @@
+## Selected Projects
+- Exploring Cloud backends for the new OGC Environmental Retrieval API (NWS)
+  -Steve Olsen, Shane Mill
+-Climate Observatory - Analyzing and Visualizing NOAA Satellite Climate Data Records on the Cloud (NESDIS NCEI)
+  -Douglas Rao, Jessica Matthews
+- Graphical Hazardous Weather Outlook Cloud Dissemination Test (NWS)
+  -Derek DeRoche, Brian Miretzky, Gregory Schoor 
+- Oceanography at-sea Information System (OASIS) (Fisheries)
+  - Maureen Taylor, Chris Melrose, Joshua Moser
+
+
 ## Timeline
 <details>
   <summary>Click to expand!</summary>
@@ -17,17 +28,8 @@
   <li>Present project status/outcome at ESIP July Meeting. </li>
  </details>
 
+<p>&nbsp;</p>
 
-## Selected Projects
-
-
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ESIPFed/ncpp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
