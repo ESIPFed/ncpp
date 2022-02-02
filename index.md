@@ -1,7 +1,8 @@
 ## Timeline
 <details>
   <summary>Click to expand!</summary>
-# 2021/2022 NCPP 
+  
+# 2021/2022 NCPP
 * August: NCPP solicitation released and distributed through NOAA EDMC
 * September: Submission deadline and project selection
 * October: Kickoff meeting ESIP/BDP and selected projects
